@@ -63,16 +63,17 @@ Here on GitHub I share my **projects, studies, and learning journey in software 
 ![VS Code](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode)
 ---
 
+## 📊 GitHub Activity
+
+[![Paulo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=paulohdev21&theme=tokyo-night)](https://github.com/paulohdev21)
+
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=paulohdev21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohdev21&layout=compact&theme=tokyonight" />
-</p>
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=paulohdev21&show_icons=true&theme=tokyonight)
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=paulohdev21&theme=tokyonight" />
-</p>
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paulohdev21&layout=compact&theme=tokyonight)
 
 ---
 
