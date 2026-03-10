@@ -1,47 +1,56 @@
-# Hi 👋, I'm Paulo Henrique
+<h1 align="center">Hi 👋, I'm Paulo Henrique</h1>
 
-🚀 **Full Stack Developer in Training | HTML, CSS, JavaScript, React, Node.js**  
-🇧🇷 Brazil
+<h3 align="center">
+Full Stack Developer in Training
+</h3>
 
-I’m an **ADS student** passionate about **web development**.
+<p align="center">
+HTML • CSS • JavaScript • React • Node.js
+</p>
 
-Currently studying **HTML, CSS, JavaScript, React and Node.js**, building **projects to improve my skills** and grow as a **Full Stack Developer**.
+---
+
+## 🚀 About Me
+
+I’m an **ADS (Systems Analysis and Development) student** passionate about **web development**.
+
+Currently studying and building projects with:
+
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **React**
+- **Node.js**
+
+My goal is to become a **Full Stack Developer** and build **modern and scalable web applications**.
 
 Here on GitHub I share my **projects, studies, and learning journey in software development**.
-
 
 ---
 
 ## 🌐 Where to find me
 
-<p align="left">
-  <a href="https://github.com/paulohdev21">
-    <img src="https://img.shields.io/badge/GitHub-PAULOHDEV21-181717?style=for-the-badge&logo=github" />
-  </a>
- <a href="https://www.linkedin.com/in/paulohdev" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+<p align="center">
+<a href="https://github.com/paulohdev21">
+<img src="https://img.shields.io/badge/GitHub-PAULOHDEV21-181717?style=for-the-badge&logo=github" />
 </a>
-
-  
-
+<a href="https://www.linkedin.com/in/paulohdev">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
 
 ---
 
 ## 🧠 What I do
 
--   💻 Building web development projects
--   🎨 Creating responsive interfaces with HTML and CSS
--   ⚡ Learning and practicing JavaScript
--   ⚛️ Studying React for modern front-end development
--   🌐 Exploring Node.js for back-end development
--   📚 Sharing my learning journey and projects on GitHub
-
+- 💻 Building web development projects
+- 🎨 Creating responsive interfaces
+- ⚡ Practicing JavaScript and DOM manipulation
+- ⚛️ Learning modern front-end with React
+- 🌐 Exploring backend development with Node.js
+- 📚 Sharing my learning journey on GitHub
 
 ---
-
-## 🛠️ Tech Stack
-
-### Frontend
 
 ## 🛠️ Tech Stack
 
@@ -60,16 +69,32 @@ Here on GitHub I share my **projects, studies, and learning journey in software 
 
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode)
+![VSCode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## 🚀 Featured Projects
+
+Here are some projects I’m working on while learning:
+
+- 🌐 Responsive Landing Page (HTML + CSS)
+- ⚡ JavaScript DOM Project
+- ⚛️ React To-Do App
+- 🌐 Node.js REST API
+
 ---
 
 ## 📊 GitHub Activity
 
 [![Paulo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=paulohdev21&theme=tokyo-night)](https://github.com/paulohdev21)
 
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=paulohdev21&show_icons=true&theme=tokyonight)
+
+---
 
 ## 💻 Most Used Languages
 
@@ -79,11 +104,11 @@ Here on GitHub I share my **projects, studies, and learning journey in software 
 
 ## 🚀 Philosophy
 
-> _""Programming is not just about writing code.
-It's about learning, building projects, and constantly improving as a developer.""_
+> _"Programming is not just about writing code.  
+> It's about learning, building projects, and constantly improving as a developer."_
 
 ---
 
-⭐ If you like my projects, consider starring a repository
+⭐ If you like my projects, consider **starring a repository**
 
- 🤝 Always open to learning, collaborations, and new ideas
+🤝 Always open to **learning, collaborations, and new ideas**
